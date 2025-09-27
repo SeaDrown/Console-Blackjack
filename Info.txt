@@ -1,6 +1,8 @@
-This is blackjack. There is a deck, and each card in the deck is represented by it's suit and then it's value.
+This is blackjack.
 
-eg. King of Diamonds == KD
-    8 of Spades = 8S
-    Ace of Clubs = AC 
-    Queen of Hearts == QH
+Included in this project is:
+ - Deck class, for the cards
+ - Hand class, for the dealer's hand and the player's hand
+ - App class, as the entry point
+
+Since App.java is the entry point, main() is a method of App.java.
