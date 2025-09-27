@@ -1,0 +1,6 @@
+This is blackjack. There is a deck, and each card in the deck is represented by it's suit and then it's value.
+
+eg. King of Diamonds == KD
+    8 of Spades = 8S
+    Ace of Clubs = AC 
+    Queen of Hearts == QH
